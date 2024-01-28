@@ -1,5 +1,4 @@
 # tableau-transportation-network-in-France
-Dashboard made on Tableau using transportation traffic data of trains in France. 
 
 In this **Data Visualization** project, the aim is to capture patterns in the **transportation data of trains across regions in France** and draw conclusions from them and aim to analyze whether there are relationships between the columns. A total of eight visualizations, some complementary, some individually insightful, including the map of France, are joined in one dashboard. 
 
